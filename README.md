@@ -1,3 +1,9 @@
+> ### This repo is archived
+>
+> Head onto the main repo for Devhints cheatsheets: https://github.com/rstacruz/cheatsheets
+
+---
+
 <br>
 
 <p align='center'>
